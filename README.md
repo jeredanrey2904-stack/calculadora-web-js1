@@ -40,6 +40,7 @@ proyect/ Calculadora Web
         <button onclick="calcular()" class="verde">=</button>
     </div>
 </div>
+
 css/
 body{
     margin:0;
@@ -108,6 +109,7 @@ button:hover{
 .doble{
     grid-column:span 2;
 }
+
 js/
 let pantalla = document.getElementById("pantalla");
 
